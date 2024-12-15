@@ -1,0 +1,2 @@
+# Kirkpatrick_Point_Location
+Implemented Kirkpatrick_Pointlocation Algorithm using Delaunay Triangulation
